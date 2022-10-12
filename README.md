@@ -10,7 +10,7 @@ In this first notebook we will be exploring the following Expectations
 C1.5 create and solve equations for various contexts, and verify their solutions
 
 ### C2 Coding
-- apply coding skills to represent mathematical concepts and relationships dynamically, and to solve problems, in algebra and across the other strands
+- apply coding skills to represent mathematical concepts and relationships dynamically, and to solve problems, in algebra and across the other strands.
 
 C2.1 use coding to demonstrate an understanding of algebraic concepts including variables, parameters, equations, and inequalities
 
