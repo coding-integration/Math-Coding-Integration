@@ -1,4 +1,4 @@
-# Coding Integration - Math / Science / Data Science
+# Coding Integration - Math 
 
 ## Part 1 Coding Integration in Math - MTH1W
 
